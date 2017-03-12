@@ -1,0 +1,335 @@
+body {
+  background-color: #394463;
+}
+
+.GDB {
+  background-color: #573963;
+}
+
+.AMB {
+  background-color: #633939;
+}
+
+.INB {
+  background-color: #39633d;
+}
+
+.header {
+  margin-top: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  height: 275px;
+  text-align: center;
+  background: url("http://www.bracom.nl/wp-content/uploads/5X7B1009.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.header-GD{
+  margin-top: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  height: 275px;
+  text-align: center;
+  background: url("http://tabitha.bg/wp-content/uploads/2015/04/home-slide-2.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.een {
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.list {
+  margin-top: 112px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav {
+  padding: 10px;
+  list-style: none;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+  background: linear-gradient(bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4));
+  background: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4));
+  background: -moz-linear-gradient(bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4));
+}
+
+.md {
+  text-align: left;
+  list-style: circle;
+}
+
+li {
+  color: #fff;
+  display: inline-block;
+  padding-right: 20px;
+  text-align: center;
+}
+
+li:hover {
+  text-decoration: underline;
+}
+
+.md > li {
+  padding-top: 9px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.md2 {
+  text-align: left;
+  list-style: circle;
+}
+.md2 > li {
+  padding-top: 9px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.article-1 {
+  background-image: url('http://worldalldetails.com/article_image/fresh_food_market_867901.jpg');
+  background-position: bottom, center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  float: left;
+  width: 25.5%;
+  height: 525px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  border-radius: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #fff;
+  z-index: -1;
+  text-align: center;
+  color: #fff;
+}
+
+.article-2 {
+  background-image: url('http://3.bp.blogspot.com/-RtmebgLZZ7I/UoIkP08ca-I/AAAAAAAAF5U/x9NcwtLWrWA/s1600/2013-veg-stall-real-food-festival-london.jpg');
+  background-position: bottom, center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  float: left;
+  width: 25.5%;
+  height: 525px;
+  margin-top: 5%;
+  border-radius: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #fff;
+  z-index: -2;
+  text-align: center;
+  color: #fff;
+}
+
+.article-3 {
+  background-image: url('https://i1.wp.com/www.rtwgirl.com/wp-content/uploads/2015/12/RTWgirl_20140509RTWgirl_20140509IMG_0033-e1454541523508.jpg?resize=1600%2C1200');
+  background-position: bottom, center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  float: left;
+  width: 25.5%;
+  height: 525px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  border-radius: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #fff;
+  z-index: -1;
+  text-align: center;
+  color: #fff;
+}
+
+.article-4 {
+  background-image: url('http://tabitha.bg/wp-content/uploads/2015/04/starets-s-kotki-1.jpg');
+  background-position: bottom, center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  float: left;
+  width: 25.5%;
+  height: 525px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  border-radius: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #fff;
+  z-index: -1;
+  text-align: center;
+  color: #fff;
+}
+
+.article-5 {
+  background-image: url('http://tabitha.bg/wp-content/uploads/2015/03/kid3.jpg');
+  background-position: bottom, center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  float: left;
+  width: 25.5%;
+  height: 525px;
+  margin-top: 5%;
+  border-radius: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #fff;
+  z-index: -2;
+  text-align: center;
+  color: #fff;
+}
+
+.article-6 {
+  background-image: url('http://tabitha.bg/wp-content/uploads/2015/04/staritsa.jpg');
+  background-position: bottom, center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  float: left;
+  width: 25.5%;
+  height: 525px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  border-radius: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #fff;
+  z-index: -1;
+  text-align: center;
+  color: #fff;
+}
+
+.article-7 {
+  background-image: url('http://www.channelpronetwork.com/sites/default/files/thumbnails/news//encryption.jpg');
+  background-position: bottom, center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  float: left;
+  width: 25.5%;
+  height: 525px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  border-radius: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #fff;
+  z-index: -1;
+  text-align: center;
+  color: #fff;
+}
+
+.article-8 {
+  background-image: url('https://images3.alphacoders.com/113/113897.jpg');
+  background-position: bottom, center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  float: left;
+  width: 25.5%;
+  height: 525px;
+  margin-top: 5%;
+  border-radius: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #fff;
+  z-index: -2;
+  text-align: center;
+  color: #fff;
+}
+
+.article-9 {
+  background-image: url('http://www.welzijnspraktijkcorposano.nl/wp-content/uploads/2016/03/admin.jpg');
+  background-position: bottom, center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  float: left;
+  width: 25.5%;
+  height: 525px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  border-radius: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #fff;
+  z-index: -1;
+  text-align: center;
+  color: #fff;
+}
+
+.article-10 {
+  background-image: url('http://www.johannahoeve.nu/achtergrond.jpg');
+  background-position: bottom, center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  float: left;
+  width: 25.5%;
+  height: 525px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  border-radius: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #fff;
+  z-index: -1;
+  text-align: center;
+  color: #fff;
+}
+
+.article-11 {
+  background-image: url('http://www.johannahoeve.nu/achtergrond.jpg');
+  background-position: bottom, center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  float: left;
+  width: 25.5%;
+  height: 525px;
+  margin-top: 5%;
+  border-radius: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #fff;
+  z-index: -2;
+  text-align: center;
+  color: #fff;
+}
+
+.article-12 {
+  background-image: url('http://www.johannahoeve.nu/achtergrond.jpg');
+  background-position: bottom, center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  float: left;
+  width: 25.5%;
+  height: 525px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  border-radius: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #fff;
+  z-index: -1;
+  text-align: center;
+  color: #fff;
+}
