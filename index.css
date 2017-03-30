@@ -28,7 +28,7 @@ body {
 
 .header-GD{
   margin-top: 2%;
-  margin-left: 5%;;
+  margin-left: 5%;
   margin-right: 5%;
   height: 275px;
   text-align: center;
@@ -332,4 +332,17 @@ li:hover {
   z-index: -1;
   text-align: center;
   color: #fff;
+}
+
+
+/* centered content */
+.article-12 > p {
+  max-width: 215px;
+  margin: 0 auto;
+}
+
+
+/* space under articles */
+.wrapper {
+  height: 700px;
 }
